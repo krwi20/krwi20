@@ -19,5 +19,5 @@
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=krwi20">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=krwi20" />
 </div>
